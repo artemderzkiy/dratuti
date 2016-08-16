@@ -5,19 +5,9 @@ body {
     background-color: black;
     color : white;
 }
-.clickstring { 
-    margin-top: 30px; 
-    background-color: #fffff1;
-}
-
-tr th {
-    text-align: center;
-}
-
-.btntoolbar {
-    margin-top:30px;
-    margin-bottom:30px;    
-}
-.btn-primary {
-    margin-right:30px;
+.imgDra {
+	  position: absolute;
+	  height:30%;
+        top: 10;
+        left: 50;
 }
