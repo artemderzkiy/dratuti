@@ -4,10 +4,28 @@ body {
 .jumbotron {
     background-color: black;
     color : white;
+    
 }
 .imgDra {
-	  position: absolute;
-	  height:30%;
-        top: 10;
-        left: 50;
+	  position:absolute;
+	  height: 100px;
+	  width: 200px;
+        
+        border: solid black 5px;
+        border-radius: 20px;
+
+}
+.divIm
+{ position: relative;
+	width:1024px;
+
+}
+
+.molodec {
+height: 300px;
+width:500px;
+}
+
+.counterBox{
+	background-color: blue;
 }

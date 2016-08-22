@@ -2,6 +2,7 @@ require("./index.css");
 import React from 'react';
 import ReactDOM from 'react-dom';
 import DratutiPic from "./src/dratutiPic";
+//import Counter from "./src/counter";
 
 
 
@@ -15,8 +16,10 @@ render() {
         <div>
         <div className="jumbotron">
         <h1>дратути))0))</h1>
-        <p>Поймай меня если сможешь...</p> 
-        </div> 
+        <p>Поймай меня если сможешь...</p>
+        <p>А в идеале 10 раз))0))0)</p> 
+        </div>
+         
             <DratutiPic /> 
         </div>
         )
